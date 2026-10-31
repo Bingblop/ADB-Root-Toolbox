@@ -155,7 +155,7 @@ Open source under the **GNU General Public License v3.0**: the full text is in [
 
 ## Support & credits
 
-Found a bug? [Open an issue](https://github.com/Bingblop/ADB-Application-Manager/issues), or use **About → Contact the developer** in the app. Like it? ☕ **Buy me a coffee** is in the About tab.
+Found a bug? [Open an issue](https://github.com/Bingblop/ADB-Application-Manager/issues), or use **About → Contact the developer** in the app. Like it? ☕ **Buy me a coffee** in the About tab as well. Also feel free to reach out to provide positive/negative feedback, feature request, or ask a question. Happy to help!
 
 Debloat data from [UAD-NG](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) (GPL-3.0, downloaded at runtime) ·
 tracker list from [Exodus Privacy](https://exodus-privacy.eu.org) (ODbL 1.0) ·
@@ -166,5 +166,3 @@ the Morphe Patcher tab is built on the [Morphe](https://github.com/MorpheApp) pr
 the SD Maid tab is a port of the four tools of [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) by darken (GPL-3.0; also on [Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)) ·
 the descriptions of Android's own settings in Hidden Settings are taken in part from the [Android Open Source Project](https://source.android.com/) documentation (Apache-2.0) ·
 the colors of More styles (Fidelity, Content, Monochrome) are computed by `assets/monet.js`: on Android 14 by a port of Android 14's own color engine from the [Android Open Source Project](https://source.android.com/) and Google's [Material Color Utilities](https://github.com/material-foundation/material-color-utilities) 0.4.0, on Android 15, 16 and 17 (and the 2025 and 2026 color specs and CMF everywhere) by a port of Material Color Utilities on GitHub (main, commit bd811e4, 2026), and on Android 14 QPR1 to QPR3, 15.0, 16 QPR1, 16 QPR2 and 17 following the changes in Android's own copy of that library (libmonet, Android Open Source Project); the names and order they are written in follow each Android release's own theme code (all Apache-2.0)
-
-**Contact the developer about Issues** at the top of the About tab: Issues opens the GitHub issue page; Contact opens your email app with the subject "ADB App Manager", addressed to a forwarding alias (bingblop.coral666@simplelogin.fr) so the developer's own address stays private.
